@@ -44,7 +44,7 @@ client = gspread.authorize(creds)
 
 spreadsheet_id = "1QChodK90asYPL6FSLK5-b9iTkTsHpRcOK4vOm0YfKGw" 
 
-worksheet = client.open_by_key(spreadsheet_id).worksheet("Top 250 Stocks")ब्रेकआउट स्टॉक अलर्ट
+worksheet = client.open_by_key(spreadsheet_id).worksheet("Top 250 Stocks")
 
 
 
