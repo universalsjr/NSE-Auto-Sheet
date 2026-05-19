@@ -194,7 +194,7 @@ if data_to_insert:
 
     except Exception as e:
 
-        print(f"Google Sheet Error: {str(e)}")स्प्रेडशीट सॉफ़्टवेयर
+        print(f"Google Sheet Error: {str(e)}")
 
 else:
 
